@@ -10,4 +10,3 @@ public interface OrderRepository extends JpaRepository<Order, Long>,
         OrderByUserIdQuery,
         OrderByUsernameQuery {
 }
-f
