@@ -6,4 +6,8 @@ public interface EmailService {
     // Method
     // To send a simple email
     void sendSimpleMail(EmailDetails details);
+
+    //Method
+    //To send simple main in black friday
+    void sendSimpleMailInBlackFriday(EmailDetails details);
 }
