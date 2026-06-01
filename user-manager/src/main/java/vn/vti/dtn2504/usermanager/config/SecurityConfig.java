@@ -98,7 +98,7 @@ public class SecurityConfig {
         http
                 .csrf(CsrfConfigurer::disable)
                 .authorizeHttpRequests((authorize) -> authorize
-                        .requestMatchers("/api/v1/users/accounts").permitAll()
+                        .requestMatchers("/api/v1/users/accounts", "/api/v1/users").permitAll()
                         .anyRequest().authenticated()
                 )
                 // Form login handles the redirect to the login page from the
