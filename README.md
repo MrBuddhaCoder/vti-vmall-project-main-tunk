@@ -16,6 +16,7 @@ This is a primary project using mainly **Java** (99.7%) with a small portion of 
 ```
 vti-vmall-project-main-tunk/
 ├── README.md
+├── LICENSE
 ├── src/
 ├── resources/
 └── ...
@@ -58,12 +59,20 @@ If you want to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the **GNU Affero General Public License v3.0** - see the [LICENSE](LICENSE) file for details.
+
+The GNU AGPL v3.0 is a free, copyleft license that requires:
+- You must provide source code when distributing the software
+- If you modify and run this code on a server, you must make the modified source available to users
+- Any modifications must be licensed under the same AGPL v3.0 license
+
+For more information, visit [GNU AGPL v3.0 License](https://www.gnu.org/licenses/agpl-3.0.html)
 
 ## Contact
 
-- Author: MrBuddhaCoder
+- Author: MrBuddhaCoder (Thái Văn Lâm)
 - GitHub: [MrBuddhaCoder](https://github.com/MrBuddhaCoder)
+- Email: thaivanlam373@gmail.com
 
 ---
 
